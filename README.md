@@ -5,13 +5,13 @@ This is an example application which can be run on Bluemix.
 This application showcases how to pipe files from a multi-part form using streams to Cloudant.  This is really important by using pipes and streams you do not chew up disk space or memory.
 
 ### Build status
-![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/c18028c774d53b033ce21310498c7ba0/badge.svg)
+![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/00b441de0cfadf53c63b0ce71f55fa3b/badge.svg)
 
 ### Deploy this app:
 
 ####  Automatically by clicking this image:
 
-[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/c18028c774d53b033ce21310498c7ba0/button.svg)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/node-file-upload-cloudant.git)
+[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/00b441de0cfadf53c63b0ce71f55fa3b/button.svg)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/node-file-upload-cloudant.git)
 
 #### Manually as follows:
 
