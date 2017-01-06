@@ -75,7 +75,7 @@ app.post("/upload", function (request, response) {
     stream.on("finish", function () { response.redirect("/") });
 });
 
-var port = process.env.VCAP_APP_PORT || 5000;
+var port = process.env.PORT || 5000;
 app.listen(port, function() {
   console.log("server started on port " + appEnv.port);
   var dbCreated = false;
