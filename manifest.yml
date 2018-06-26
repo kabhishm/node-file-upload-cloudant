@@ -2,7 +2,7 @@
 declared-services:
   cloudant-node-file-upload:
     label: cloudantNoSQLDB
-    plan: Shared
+    plan: standard
 applications:
 - name: node-file-upload-cloudant
   command: node server.js
